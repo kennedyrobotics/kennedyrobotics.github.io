@@ -10,5 +10,5 @@ Public website for Kennedy Robotics, served by GitHub Pages at <https://kennedyr
 Plain HTML and CSS, no build step (`.nojekyll`). Edit, commit, push: GitHub publishes in about a minute.
 
 Keep the privacy policy in step with the app's `PrivacyInfo.xcprivacy` and the App Store privacy label
-(private repo `workout-app`). Update it **before** releasing a version that changes data handling
+(private repo `KR-Fit`). Update it **before** releasing a version that changes data handling
 (e.g. HealthKit or iCloud sync).
